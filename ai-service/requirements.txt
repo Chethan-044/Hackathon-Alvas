@@ -1,0 +1,22 @@
+# ai-service/requirements.txt
+# Fixed for Python 3.13 + Windows
+
+fastapi
+uvicorn
+transformers
+torch==2.6.0
+langdetect
+deep-translator
+fuzzywuzzy
+python-levenshtein
+pandas
+numpy
+scikit-learn
+textblob
+emoji
+pydantic
+python-multipart
+reportlab
+python-jose
+aiofiles
+httpx
